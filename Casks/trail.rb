@@ -3,7 +3,7 @@
 # Update version and sha256 (shasum -a 256 Trail-x.y.z.dmg) for each release.
 cask "trail" do
   version "0.3.0"
-  sha256 "30484bd892440dc4a85222ad714087ab038984641366ad351aed51f779550419"
+  sha256 "e87dfd58c1fff486f5ea9b187d265e911f250db672a85c2ee4557d6aa3e52240"
 
   url "https://github.com/uneasymusings/trail/releases/download/v#{version}/Trail-#{version}.dmg"
   name "Trail"
